@@ -1,7 +1,9 @@
 # Assignment 01 - Bitcoin Transaction
 
 Name    : Tyler Stubbs
+
 Email   : tjs986@utexas.edu
+
 Discord : T-Bone#8992
 
 ## Transaction Summary
