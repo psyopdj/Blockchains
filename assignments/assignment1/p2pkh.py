@@ -13,6 +13,13 @@ digital signature which shares that same public key.
 
 You can generate a block in order to commit this transaction
 to the blockchain (if you are using regtest).
+
+##########
+This script is mostly given to us.
+I added the piece at the bottom that
+makes an rpc call to send the transaction.
+##########
+
 """
 
 import os, sys
