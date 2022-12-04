@@ -10,6 +10,7 @@ Discord : T-Bone#8992
 
 **Redeem Transaction**  
 txid: ae3f232f29aaa07c91bce627acf2d03274577d06b9a355e2a9f85315a7f07dbc
+
 link: [mempool.space](https://mempool.space/testnet/tx/ae3f232f29aaa07c91bce627acf2d03274577d06b9a355e2a9f85315a7f07dbc)
 
 ## Transaction Details
