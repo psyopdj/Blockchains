@@ -7,10 +7,11 @@ Email   : tjs986@utexas.edu
 Discord : T-Bone#8992
 
 
-## Transaction Sumamry
+## Transaction Summary
 
 **Channel Open Transaction**  
 txid: 9c6e66f80198a402a99939ccc2627e84e93b23096880ed580a35834e496a103f
+
 link: [mempool.space](https://mempool.space/testnet/tx/9c6e66f80198a402a99939ccc2627e84e93b23096880ed580a35834e496a103f)
 
 **Lightning Invoice**
@@ -21,6 +22,7 @@ link: [lightningdecoder.com](https://lightningdecoder.com/lntb10u1p3chkvkpp5ayxe
 
 **Channel Close Transaction**  
 txid: 0f4330461887dd715f4bb56b895b10a8ee0a31afca45db7f3e10a2a1b1937673
+
 link: [mempool.space](https://mempool.space/testnet/tx/0f4330461887dd715f4bb56b895b10a8ee0a31afca45db7f3e10a2a1b1937673)
 
 ## Questions
